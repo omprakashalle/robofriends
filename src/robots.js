@@ -1,0 +1,26 @@
+export const robotslist=[
+    { 
+        id:1,
+        name:'AAA',
+        email:"aaa@gmail.com",
+        username:"A_user"
+    },
+    { 
+        id:2,
+        name:'BBB',
+        email:"bbb@gmail.com",
+        username:"B_user"
+    },
+    { 
+        id:3,
+        name:'CCC',
+        email:"cc@gmail.com",
+        username:"C_user"
+    },
+    { 
+        id:4,
+        name:'DDD',
+        email:"dd@gmail.com",
+        username:"d_user"
+    },
+];
